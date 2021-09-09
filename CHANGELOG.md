@@ -6,6 +6,10 @@ and this project adheres to
 
 ## [Unreleased]
 
+### Added
+
+- cosmwasm-std: Implement `ops::Mul for Decimal`.
+
 ### Changed
 
 - cosmwasm-std: Make `iterator` a required feature if the `iterator` feature
