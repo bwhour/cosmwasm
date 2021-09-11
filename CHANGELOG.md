@@ -14,6 +14,7 @@ and this project adheres to
   the contract call was executed in.
 - cosmwasm-std: New getters `Decimal{,256}::atomics()` and
   `Decimal{,256}::decimal_places()`.
+- cosmwasm-std: New `Uint128::checked_pow`.
 
 ### Changed
 
